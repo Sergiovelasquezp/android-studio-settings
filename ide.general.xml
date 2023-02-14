@@ -3,12 +3,6 @@
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
     <entry key="project.tree.structure.show.url" value="false" />
-    <entry key="ide.experimental.ui" value="true" />
-    <entry key="ide.experimental.ui.animations" value="true" />
-    <entry key="ide.experimental.ui.editor.tabs" value="true" />
-    <entry key="ide.experimental.ui.inter.font" value="true" />
-    <entry key="ide.experimental.ui.main.toolbar" value="true" />
-    <entry key="ide.experimental.ui.tree.selection" value="true" />
-    <entry key="ide.experimental.ui.vcs.branch.popup" value="true" />
+    <entry key="ide.experimental.ui.title.toolbar.in.macos" value="false" />
   </component>
 </application>
