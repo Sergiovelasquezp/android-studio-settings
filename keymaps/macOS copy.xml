@@ -1,0 +1,12 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="RenameFile">
+    <mouse-shortcut keystroke="control alt button3" />
+  </action>
+</keymap>
